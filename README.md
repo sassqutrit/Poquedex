@@ -27,8 +27,13 @@ python SILVANO_SANCHEZ_proyectoM4.py
 - Introduce el nombre de un Pokémon cuando se te solicite. La información se mostrará en la consola y se guardará en la carpeta pokedex.
 - A continuación se muestran unas imagenes de ejemplo:
 
+En Sublime Text 4:
 [![datos-ditto.jpg](https://i.postimg.cc/hPZZ7jKv/datos-ditto.jpg)](https://postimg.cc/8jWm2TJg)
 [![ditto-json.jpg](https://i.postimg.cc/hPQTpP9f/ditto-json.jpg)](https://postimg.cc/6yw8QKbX)
+
+En VSCode:
+[![aegislash-blade.jpg](https://i.postimg.cc/LXyBsLQN/aegislash-blade.jpg)](https://postimg.cc/CBqfPBgq)
+[![aegislash-blade.png](https://i.postimg.cc/NFmVSQx6/aegislash-blade.png)](https://postimg.cc/Pvf28s9J)
 
 ### Paso 5: Aprendizaje adquirido.
 En este módulo, aprendí a:
