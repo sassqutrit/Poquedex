@@ -27,7 +27,8 @@ python SILVANO_SANCHEZ_proyectoM4.py
 - Introduce el nombre de un Pokémon cuando se te solicite. La información se mostrará en la consola y se guardará en la carpeta pokedex.
 - A continuación se muestran unas imagenes de ejemplo:
 
-
+[![datos-ditto.jpg](https://i.postimg.cc/hPZZ7jKv/datos-ditto.jpg)](https://postimg.cc/8jWm2TJg)
+[![ditto-json.jpg](https://i.postimg.cc/hPQTpP9f/ditto-json.jpg)](https://postimg.cc/6yw8QKbX)
 
 ### Paso 5: Aprendizaje adquirido.
 En este módulo, aprendí a:
